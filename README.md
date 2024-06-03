@@ -1,6 +1,6 @@
-# React + TypeScript + Vite
+# 나 키우기 (self-growth)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+생성형 ai를 이용한 개인맞춤형 다이어리 Web
 
 Currently, two official plugins are available:
 
